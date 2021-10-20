@@ -1,6 +1,7 @@
 body
 {
   font-family: sans-serif;
+  color: black;
 }
 p
 {
@@ -9,4 +10,8 @@ p
 h1,h2
 {
   font-family: "Arial Black", Verdana, sans-serif;
+}
+em
+{
+  font-style: italic;
 }
