@@ -1,2 +1,3 @@
 # FanPage
-exo fan page nws
+* Exercice "Fan Page" ```Ariana Grande```
+
