@@ -3,7 +3,7 @@ body
   font-family: sans-serif;
   color: black;
   background-color: #F8BCF1;
-}
+}/** CSS et HTML fait en grande partie par Philéas Villette**/
 p
 {
   font-family: Arial, Verdana, sans-serif;
@@ -24,7 +24,7 @@ em
 {
   font-style: italic;
   background-color: white;
-  text-align: center;
+  text-align: right;
   border: 3px black groove;
 }
 .button
@@ -48,4 +48,4 @@ a
 figure
 {
 	text-align: center;
-}	
+}
