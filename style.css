@@ -2,7 +2,7 @@ body
 {
   font-family: sans-serif;
   color: black;
-  background-color: teal;
+  background-color: silver;
 }
 p
 {
@@ -30,8 +30,8 @@ em
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
   background-color: navy;
-  border: 3px white dashed;
-  color-text: white;
+  border: 3px black groove;
+  text-color: white;
 }
 .imageFlottante
 {
