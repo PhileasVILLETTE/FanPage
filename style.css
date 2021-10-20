@@ -33,3 +33,7 @@ em
   border: 3px white dashed;
   color-text: white;
 }
+.imageFlottante
+{
+  float: left;
+}
