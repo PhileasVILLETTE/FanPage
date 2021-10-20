@@ -8,6 +8,7 @@ p
 {
   font-family: Arial, Verdana, sans-serif;
   text-align: center;
+  border: 3px black dashed;
 }
 h1, h2, h3
 {
@@ -24,15 +25,11 @@ em
   background-color: white;
   text-align: center;
 }
-div
-{
-  background-color: silver;
-}
 .button
 {
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
   background-color: navy;
-  border: 3px blue dashed;
+  border: 3px white dashed;
   color-text: white;
 }
