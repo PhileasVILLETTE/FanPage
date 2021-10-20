@@ -28,8 +28,11 @@ div
 {
   background-color: silver;
 }
-a
+.button
 {
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
+  background-color: navy;
+  border: 3px blue dashed;
+  color-text: white;
 }
