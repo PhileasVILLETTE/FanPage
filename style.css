@@ -3,11 +3,11 @@ body
   font-family: sans-serif;
   color: black;
   text-align: center;
+  text-align: justify;
 }
 p
 {
   font-family: Arial, Verdana, sans-serif;
-  
 }
 h1,h2
 {
@@ -20,5 +20,4 @@ em
 .chanson
 {
   font-style: italic;
-  
 }
