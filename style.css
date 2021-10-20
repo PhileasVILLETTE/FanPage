@@ -2,11 +2,12 @@ body
 {
   font-family: sans-serif;
   color: black;
+  text-align: center;
 }
 p
 {
   font-family: Arial, Verdana, sans-serif;
-  text-align: center;
+  
 }
 h1,h2
 {
@@ -19,5 +20,5 @@ em
 .chanson
 {
   font-style: italic;
-  text-align: center;
+  
 }
