@@ -9,7 +9,7 @@ p
   font-family: Arial, Verdana, sans-serif;
   text-align: center;
 }
-h1,h2,h3,a
+h1, h2, h3
 {
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
@@ -28,7 +28,8 @@ div
 {
   background-color: silver;
 }
-img
+a
 {
+  font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
 }
