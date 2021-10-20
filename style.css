@@ -4,6 +4,7 @@ body
   color: black;
   text-align: center;
   text-align: justify;
+  background-color: teal;
 }
 p
 {
@@ -20,4 +21,9 @@ em
 .chanson
 {
   font-style: italic;
+  background-color: white;
+}
+div
+{
+  background-color: silver;
 }
