@@ -2,13 +2,13 @@ body
 {
   font-family: sans-serif;
   color: black;
-  background-color: silver;
+  background-color: #F8BCF1;
 }
 p
 {
   font-family: Arial, Verdana, sans-serif;
   text-align: center;
-  border: 30px black dashed;
+
 }
 h1, h2, h3
 {
@@ -24,16 +24,22 @@ em
   font-style: italic;
   background-color: white;
   text-align: center;
+  border: 3px black groove;
 }
 .button
 {
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
-  background-color: navy;
+  background-color: #3E67F6;
   border: 3px black groove;
-  text-color: white;
+  color: white;
 }
 .imageFlottante
 {
   float: left;
+}
+a
+{
+  font-family: "Arial Black", Verdana, sans-serif;
+  color: white;
 }
