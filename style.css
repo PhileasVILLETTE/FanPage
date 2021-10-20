@@ -2,17 +2,17 @@ body
 {
   font-family: sans-serif;
   color: black;
-  text-align: center;
-  
   background-color: teal;
 }
 p
 {
   font-family: Arial, Verdana, sans-serif;
+  text-align: center;
 }
 h1,h2
 {
   font-family: "Arial Black", Verdana, sans-serif;
+  text-align: center;
 }
 em
 {
@@ -22,6 +22,7 @@ em
 {
   font-style: italic;
   background-color: white;
+  text-align: center;
 }
 div
 {
