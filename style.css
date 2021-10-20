@@ -10,10 +10,11 @@ p
   text-align: center;
 
 }
-h1, h2, h3
+h1, h2
 {
   font-family: "Arial Black", Verdana, sans-serif;
   text-align: center;
+   border: 3px black groove;
 }
 em
 {
@@ -34,12 +35,17 @@ em
   border: 3px black groove;
   color: white;
 }
-.imageFlottante
+h3
 {
-  float: center;
+	font-family: "Arial Black", Verdana, sans-serif;
+  text-align: center;
 }
 a
 {
   font-family: "Arial Black", Verdana, sans-serif;
   color: white;
 }
+figure
+{
+	text-align: center;
+}	
