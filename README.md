@@ -1,4 +1,4 @@
 # FanPage
-## La meilleure Fan Page de la planète ! UWU
-* On est les meilleurs
-* On est les plus beaux
+## La meilleure Fan Page d'Ariana Grande de la planète.
+* C'est la best UWU
+* Elle est trop jolie ❤️
